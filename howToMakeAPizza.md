@@ -1,3 +1,15 @@
+La versión más elaborada lleva:
+
+1. Chorizo
+2. Frijoles
+3. Granos de elote
+4. Rodajas de chile jalapeño
+5. Láminas de aguacate
+6. Cebolla
+7. Epazote
+8. Queso Oaxaca
+9. Queso amarillo tipo cheddar
+
 preparacion: 
 
 1. Precalienta el horno a 200°c.
@@ -8,3 +20,4 @@ preparacion:
 6. Agrega el queso mozzarella y espárcelo por toda la pizza, junto con el chorizo, los granos de elote y las rodajas de jalapeño.
 7. Mete al horno por aproximadamente 25 minutos o hasta que la masa esté bien cocida y el queso derretido.
 8. Pasado el tiempo, saca la pizza del horno, agrega las láminas de aguacate y disfruta.
+
