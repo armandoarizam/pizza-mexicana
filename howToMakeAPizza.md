@@ -1,3 +1,5 @@
+Elaboración de la Pizza Mexicana
+
 La versión más elaborada lleva:
 
 1. Chorizo
@@ -10,6 +12,18 @@ La versión más elaborada lleva:
 8. Queso Oaxaca
 9. Queso amarillo tipo cheddar
 
+RECETA DE PIZZA A LA MEXICANA:
+
+1. 250g de masa para pizza
+2. 150g de chorizo
+3. queso mozzarella al gusto
+4. pure de tomate
+5. 1/2 taza de granos de elote
+6. 2 chiles jalapeloños en rodajas
+7. 1 aguacate
+8. una cucharadita de oregano seco
+9. 1/2 cucharada de pimienta negra recien molida
+
 preparacion: 
 
 1. Precalienta el horno a 200°c.
@@ -20,4 +34,3 @@ preparacion:
 6. Agrega el queso mozzarella y espárcelo por toda la pizza, junto con el chorizo, los granos de elote y las rodajas de jalapeño.
 7. Mete al horno por aproximadamente 25 minutos o hasta que la masa esté bien cocida y el queso derretido.
 8. Pasado el tiempo, saca la pizza del horno, agrega las láminas de aguacate y disfruta.
-
